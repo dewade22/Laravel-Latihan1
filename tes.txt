@@ -1,2 +1,6 @@
 ini adalah file tes
+<<<<<<< HEAD
 ini adalah commit dari lokal
+=======
+tambahan tes dari origin
+>>>>>>> 7ab8c7ecc94c5a54fa4544d3dcce77e09811f787
