@@ -18,4 +18,5 @@ Route::get('/', function () {
 });
 
 Route::resource('purchases','PurchasesController');
+Route::resource('ledger','ItemLedgerEntryController');
 ;
